@@ -234,10 +234,14 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
  
 
-
 ## Result:
 
 Thus, the program to replace all even elements with 'E' in one dimensional array was verified successfully.
+
+
+
+
+
 
 
 
